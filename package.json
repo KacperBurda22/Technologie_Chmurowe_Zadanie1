@@ -1,0 +1,17 @@
+{
+  "name": "zad1",
+  "version": "1.0.0",
+  "description": "Zadani1-docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "Kacper Burda",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "moment-timezone": "^0.5.43",
+    "npm": "^9.6.7",
+    "package-lock.json": "^1.0.0"
+  }
+}
